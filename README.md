@@ -1,4 +1,4 @@
 # sanket
 This is mu first Git Repository.
 <br> 
-Author - Sanket Talekar
+Author - Sanket Talekar (sanku)
